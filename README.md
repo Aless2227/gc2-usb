@@ -6,7 +6,7 @@ Experimental Atmosphere sysmodule for using the **official Nintendo Switch 2 wir
 
 ## Status
 
-**Experimental; not a compatibility certification.** A tester reports working input in Super Smash Bros. Ultimate, with intermittent stick travel/dash problems. Version 0.1.3 adds configurable outer-range compensation, but that adjustment has not yet been tested on the tester's console. The exact version used for the reported gameplay was not independently reconfirmed by a new log.
+**Experimental; not a compatibility certification.** Version 0.1.3 adds configurable outer-range compensation, but that adjustment has not yet been tested..
 
 | Area | Evidence |
 | --- | --- |
